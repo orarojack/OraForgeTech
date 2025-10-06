@@ -1,6 +1,6 @@
-<!DOCTYPE html>
  <!doctype html>
 <html lang="en-US" itemscope itemtype="https://schema.org/WebPage">
+
 <head>
 <meta charset="UTF-8">
 <meta name="title" content="Leading IT Solutions & Digital Transformation Services">
@@ -15,8 +15,10 @@
 <meta property="og:description" content="OraforgeTechnologies specializes in custom software, mobile and web development, AI, and digital transformation, delivering innovative IT solutions.">
 <meta property="og:site_name" content="OraforgeTechnologies">
 <meta property="og:locale" content="en_US">
+
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
 	<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>OraforgeTechnologies | Innovative Technology Solutions</title>
 	<meta name="description" content="OraforgeTechnologies specializes in technology solutions, creating software that drives innovation and success for businesses worldwide." />
@@ -33,7 +35,10 @@
 	<meta name="twitter:site" content="@dreamstechltd" />
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://dreamstechnologies.com/","url":"https://dreamstechnologies.com/","name":"OraforgeTechnologies | Innovative Technology Solutions","isPartOf":{"@id":"https://dreamstechnologies.com/#website"},"about":{"@id":"https://dreamstechnologies.com/#organization"},"datePublished":"2023-12-16T13:39:34+00:00","dateModified":"2025-07-01T10:17:09+00:00","description":"OraforgeTechnologies specializes in technology solutions, creating software that drives innovation and success for businesses worldwide.","breadcrumb":{"@id":"https://dreamstechnologies.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://dreamstechnologies.com/"]}]},{"@type":"BreadcrumbList","@id":"https://dreamstechnologies.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://dreamstechnologies.com/#website","url":"https://dreamstechnologies.com/","name":"OraforgeTechnologies","description":"You Dream; We Design; We Deliver","publisher":{"@id":"https://dreamstechnologies.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://dreamstechnologies.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://dreamstechnologies.com/#organization","name":"OraforgeTechnologies","url":"https://dreamstechnologies.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://dreamstechnologies.com/#/schema/logo/image/","url":"https://dreamstechnologies.com/wp-content/uploads/2024/07/unnamed-2.png","contentUrl":"https://dreamstechnologies.com/wp-content/uploads/2024/07/unnamed-2.png","width":512,"height":286,"caption":"OraforgeTechnologies"},"image":{"@id":"https://dreamstechnologies.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/dreamstechnologieslimited/","https://x.com/dreamstechltd","https://in.linkedin.com/company/dreamstechnologies","https://www.instagram.com/dreamstechnologieslimited/"]}]}</script>
 	<!-- / Yoast SEO plugin. -->
+
+
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+
 <link rel="alternate" type="application/rss+xml" title="OraforgeTechnologies &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="OraforgeTechnologies &raquo; Comments Feed" href="comments/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="OraforgeTechnologies &raquo; Stories Feed" href="web-stories/feed/index.html"><script type="text/javascript">
@@ -44,6 +49,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 /* ]]> */
 </script>
 <style id='wp-emoji-styles-inline-css' type='text/css'>
+
 	img.wp-smiley, img.emoji {
 		display: inline !important;
 		border: none !important;
@@ -141,6 +147,7 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 <script type="text/javascript" src="wp-content/plugins/addons-for-visual-composer/assets/js/isotope.pkgd.min657a.js?ver=3.9.3" id="lvca-isotope-js"></script>
 <script type="text/javascript" src="wp-content/plugins/addons-for-visual-composer/assets/js/imagesloaded.pkgd.min657a.js?ver=3.9.3" id="lvca-imagesloaded-js"></script>
 <script type="text/javascript" src="wp-content/plugins/addons-for-visual-composer/includes/addons/portfolio/js/portfolio.min657a.js?ver=3.9.3" id="lvca-portfolio-js"></script>
+
 <!-- OG: 3.3.7 -->
 <meta property="og:description" content="Home"><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:site_name" content="OraforgeTechnologies"><meta property="og:title" content="Home"><meta property="og:url" content="https://dreamstechnologies.com/"><meta property="og:updated_time" content="2025-07-01T10:17:09+00:00">
 <meta property="article:published_time" content="2023-12-16T13:39:34+00:00"><meta property="article:modified_time" content="2025-07-01T10:17:09+00:00"><meta property="article:author:username" content="admin">
@@ -148,6 +155,7 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 <meta itemprop="name" content="Home"><meta itemprop="description" content="Home"><meta itemprop="datePublished" content="2023-12-16"><meta itemprop="dateModified" content="2025-07-01T10:17:09+00:00">
 <meta property="profile:username" content="admin">
 <!-- /OG -->
+
 <link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/2.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
 <link rel='shortlink' href='index.html' />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed77b6.json?url=https%3A%2F%2Fdreamstechnologies.com%2F" />
@@ -160,6 +168,7 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
         <style id="ubermenu-custom-generated-css">
 /** Font Awesome 4 Compatibility **/
 .fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
+
 /** UberMenu Responsive Styles (Breakpoint Setting) **/
 @media screen and (min-width: 1200px){
   .ubermenu{ display:block !important; } .ubermenu-responsive .ubermenu-item.ubermenu-hide-desktop{ display:none !important; } .ubermenu-responsive.ubermenu-retractors-responsive .ubermenu-retractor-mobile{ display:none; }  /* Top level items full height */ .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-nav{   display:flex;   align-items:stretch; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0{   display:flex;   flex-direction:column; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target{   flex:1;   display:flex;   align-items:center; flex-wrap:wrap; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target > .ubermenu-target-divider{ position:static; flex-basis:100%; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-layout-image_left > .ubermenu-target-text{ padding-left:1em; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-layout-image_right > .ubermenu-target-text{ padding-right:1em; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-layout-image_above, .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-item-layout-image_below{ flex-direction:column; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-submenu-drop{   top:100%; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item-level-0:not(.ubermenu-align-right) + .ubermenu-item.ubermenu-align-right{ margin-left:auto; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-content-align-left{   justify-content:flex-start; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-content-align-center{   justify-content:center; } .ubermenu.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0 > .ubermenu-target.ubermenu-content-align-right{   justify-content:flex-end; }  /* Force current submenu always open but below others */ .ubermenu-force-current-submenu .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-submenu-drop, .ubermenu-force-current-submenu .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-submenu-drop {     display: block!important;     opacity: 1!important;     visibility: visible!important;     margin: 0!important;     top: auto!important;     height: auto;     z-index:19; }   /* Invert Horizontal menu to make subs go up */ .ubermenu-invert.ubermenu-horizontal .ubermenu-item-level-0 > .ubermenu-submenu-drop, .ubermenu-invert.ubermenu-horizontal.ubermenu-items-vstretch .ubermenu-item.ubermenu-item-level-0>.ubermenu-submenu-drop{  top:auto;  bottom:100%; } .ubermenu-invert.ubermenu-horizontal.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-has-submenu-drop > .ubermenu-target > .ubermenu-sub-indicator{ transform:rotate(180deg); } /* Make second level flyouts fly up */ .ubermenu-invert.ubermenu-horizontal .ubermenu-submenu .ubermenu-item.ubermenu-active > .ubermenu-submenu-type-flyout{     top:auto;     bottom:0; } /* Clip the submenus properly when inverted */ .ubermenu-invert.ubermenu-horizontal .ubermenu-item-level-0 > .ubermenu-submenu-drop{     clip: rect(-5000px,5000px,auto,-5000px); }    /* Invert Vertical menu to make subs go left */ .ubermenu-invert.ubermenu-vertical .ubermenu-item-level-0 > .ubermenu-submenu-drop{   right:100%;   left:auto; } .ubermenu-invert.ubermenu-vertical.ubermenu-sub-indicators .ubermenu-item-level-0.ubermenu-item-has-children > .ubermenu-target > .ubermenu-sub-indicator{   right:auto;   left:10px; transform:rotate(90deg); } .ubermenu-vertical.ubermenu-invert .ubermenu-item > .ubermenu-submenu-drop {   clip: rect(-5000px,5000px,5000px,-5000px); } /* Vertical Flyout > Flyout */ .ubermenu-vertical.ubermenu-invert.ubermenu-sub-indicators .ubermenu-has-submenu-drop > .ubermenu-target{   padding-left:25px; } .ubermenu-vertical.ubermenu-invert .ubermenu-item > .ubermenu-target > .ubermenu-sub-indicator {   right:auto;   left:10px;   transform:rotate(90deg); } .ubermenu-vertical.ubermenu-invert .ubermenu-item > .ubermenu-submenu-drop.ubermenu-submenu-type-flyout, .ubermenu-vertical.ubermenu-invert .ubermenu-submenu-type-flyout > .ubermenu-item > .ubermenu-submenu-drop {   right: 100%;   left: auto; }  .ubermenu-responsive-toggle{ display:none; }
@@ -170,6 +179,8 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 @media screen and (max-width: 480px){
   .ubermenu.ubermenu-responsive .ubermenu-item-level-0{ width:100%; } .ubermenu.ubermenu-responsive .ubermenu-column, .ubermenu.ubermenu-responsive .ubermenu-column-auto{ min-width:100%; } .ubermenu .ubermenu-autocolumn:not(:first-child), .ubermenu .ubermenu-autocolumn:not(:first-child) .ubermenu-submenu-type-stack{     padding-top:0; } .ubermenu .ubermenu-autocolumn:not(:last-child), .ubermenu .ubermenu-autocolumn:not(:last-child) .ubermenu-submenu-type-stack{     padding-bottom:0; } .ubermenu .ubermenu-autocolumn > .ubermenu-submenu-type-stack > .ubermenu-item-normal:first-child{     margin-top:0; }     /* Accordion submenus mobile */ .ubermenu.ubermenu-responsive.ubermenu-mobile-accordion.ubermenu-interaction-press .ubermenu-item > .ubermenu-submenu-drop, .ubermenu.ubermenu-responsive.ubermenu-mobile-accordion.ubermenu-interaction-press .ubermenu-tab > .ubermenu-tab-content-panel{     box-shadow:none; box-sizing:border-box; border-left:none; border-right:none; } .ubermenu.ubermenu-responsive.ubermenu-mobile-accordion.ubermenu-interaction-press .ubermenu-item.ubermenu-active > .ubermenu-submenu-drop, .ubermenu.ubermenu-responsive.ubermenu-mobile-accordion.ubermenu-interaction-press .ubermenu-tab.ubermenu-active > .ubermenu-tab-content-panel{     position:static; } 
 }
+
+
 /** UberMenu Custom Menu Styles (Customizer) **/
 /* main */
  .ubermenu.ubermenu-main { background:none; border:none; box-shadow:none; }
@@ -196,11 +207,15 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
  .ubermenu-main .ubermenu-target > .ubermenu-target-description { font-size:14px; }
  .ubermenu-main .ubermenu-target > .ubermenu-target-description, .ubermenu-main .ubermenu-submenu .ubermenu-target > .ubermenu-target-description { color:#555555; }
  .ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target, .ubermenu-main div, .ubermenu-main p, .ubermenu-main input { font-family:'Roboto', sans-serif; }
+
+
 /* Status: Loaded from Transient */
+
 </style>		<link rel="shortcut icon" type="image/x-icon" href="wp-content/uploads/2024/04/favicon.png">	
  	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
 		<style type="text/css" id="wp-custom-css">
 			.bdpp-post-cats a, .bdpp-post-cats a:hover{ color: #0d8ada !important;}		</style>
+		
 <!-- Typography -->
 <style>
 	body{
@@ -216,9 +231,11 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	.bs-sidebar .widget-title:before{
 		background:#01AAE5 !important;
 	}
+
 	.footer-bottom{
 		background:transparent !important;
 	}
+	 
 	#ratings .vc_bar, 
 	.cl-testimonial2#cl-testimonial .slick-next:hover, 
 	.cl-testimonial2#cl-testimonial .slick-prev:hover,
@@ -241,6 +258,7 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	}
 	#rs-header .menu-area .navbar ul li > a{
 		color:#000000	}
+
 	#rs-header.header-style-4 .menu-area .navbar ul li > a,
 	#rs-header.header-style-5 .header-inner .menu-area .border-full .navbar .navbar-menu ul.menu > li > a{
 		color:#000000 !important;
@@ -248,12 +266,15 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	#rs-header .menu-area .navbar ul li:hover a,
 	#rs-header .menu-area .navbar ul li.current_page_parent > a,
 	#rs-header.header-style-5 .header-inner .menu-area .border-full .navbar .navbar-menu ul.menu > li > a:hover, #rs-header.header-style-5 .header-inner .menu-area .border-full .navbar .navbar-menu ul.menu > li.current_page_item > a, #rs-header.header-style-5 .header-inner .menu-area .border-full .navbar .navbar-menu ul.menu > li.active-open > a
+
 	{
 		color:#01AAE5 !important;
 	}
+
 	#rs-header .menu-area .navbar ul li .children li a{
 		color:#000000 !important;
 	}
+
 	#rs-header.style2.header-transparent .header-inner .menu-area .nav .navbar-menu #primary-menu-single > li > a{
 		color:#000000 !important;
 	}
@@ -261,32 +282,43 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	#rs-header.style2.header-transparent .header-inner .menu-area .nav .navbar-menu #primary-menu-single > li > a:hover {
 	    color:#01AAE5 !important;
 	}
+
 	#rs-header .menu-area .navbar ul ul li a:hover ,
 	#rs-header .menu-area .navbar ul ul li.current-menu-item a,
 	#rs-header .menu-area nav.navbar ul > li.mega.three-col.home-col > ul > li > a:hover{
 		color:#01AAE5 !important;
 	}
+
 	.menu-area .navbar ul li .sub-menu{
+			
 		}
+
 	#rs-header .menu-area .navbar ul li .sub-menu li a:hover{
 		  background:#FFFFFF !important;
+		
 	}
+	
+
 	h1{
 		color:#000000 !important;
 		font-family:Roboto!important;
 		font-size:48px!important;
+				
 					line-height:52px!important;
+				
 	}
 	h2{
 		color:#333333; 
 		font-family:Roboto!important;
 		font-size:40px;
 				font-weight:700!important;
+				
 					line-height:50px			}
 	h3{
 		color:#333333 ;
 		font-family:Roboto!important;
 		font-size:20px;
+				
 					line-height:30px!important;
 			}
 	h4{
@@ -294,21 +326,26 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 		font-family:Roboto!important;
 		font-size:20px;
 				font-weight:500!important;
+				
 					line-height:30px!important;
+				
 	}
 	h5{
 		color:#303745;
 		font-family:Roboto!important;
 		font-size:18px;
 				font-weight:700!important;
+				
 					line-height:27px!important;
 			}
 	h6{
 		color:#303745 ;
 		font-family:Roboto!important;
 		font-size:22px;
+				
 					line-height:30px!important;
 			}
+
 	.sec-title-all .title-sec-left:before,
 	#download-store:after,	
 	#testimonial-home:after,	
@@ -357,6 +394,8 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	.site-overview:before {
 	    background: #01AAE5 !important;
 	}
+
+	
 	#address-top .vc_column-inner,
 	.mc4wp-form input[type=submit],
 	.sidenav .offcanvas_social li a i,
@@ -367,6 +406,7 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	{
 		background: #01AAE5 !important;
 	}
+
 	.faq-section .vc_tta-panel.vc_active .vc_tta-panel-title,	
 	.mc4wp-form input[type="submit"]:hover, .wpcf7-form .wpcf7-submit:hover,
 	.wpcf7-form input[type="submit"]:hover,
@@ -375,9 +415,12 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover{
 		background: #01AAE5 !important;
 	}
+
+
 	.clpricing-table .price-table.style2 .cl-pricetable-wrap .top .btn-table:hover,{
 		background: #01AAE5 !important;		
 	}
+
  	#rs-contact .address .vc_icon_element:hover,
  	.rs-blog .blog-item .blog-button a,
  	.rs-heading.style3,
@@ -455,16 +498,19 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	.btm-cate:before,
 	.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
 	.woocommerce div.product .woocommerce-tabs ul.tabs li:hover
+
 	{
 		background:#01AAE5 !important;
 	}
 	.rs-heading h3 i{
 		background:#01AAE5;
 	}
+
 	.header-style1 .menu-area .navbar ul li ul.sub-menu,
 	#rs-header.header-style1 .menu-area .navbar ul li .sub-menu li a{
 		background:#01AAE5 !important;
 	}
+
 	.sec-title h4, .exp-title,
 	#cl-testimonial i,
 	.ps-navigation ul a:hover span,
@@ -542,51 +588,66 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
 	#rs-accordion .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a .vc_tta-controls-icon:before{
 		border-color:#01AAE5 !important;
 	}
+
 	#download-store2 #app-store a:hover, 
 	#download-store2 #app-store a:hover,
 	.woocommerce-info
 	{
 		border-color: #01AAE5	}
+	
 	a{
 		color:#01AAE5	}
 	a:hover{
 		color:transparent	}
+
 	.rs-blog .blog-item:hover .blog-button a, body.search-results .site-main > article:hover .blog-button a,
 	.rs-blog .blog-item .blog-button a:hover{
 		color:transparent !important; 
 	}
+	
 	 #rs-header .menu-area.sticky .navbar ul li.active > a{
 	    color: #01AAE5 !important;  
 	}
+
 	.transparent_header .sticky .navbar ul > li > a:after{
 	 	background: #01AAE5 !important; 
 	}
 	#rs-header .menu-area .navbar ul li > a{
 		color:#000000 !important
 	}
+ 
     #rs-header .menu-area.sticky .navbar ul li > a{
     	color: #212121 !important;
 	}
+
 	#rs-header .menu-area .navbar ul li:hover a {
 		color:#01AAE5 !important;
 	}
+	
+	
+	
+	
 	#rs-header .menu-area .navbar ul ul li a:hover,
 	#rs-header .menu-area nav.navbar ul li.mega ul li ul li a:hover,
 	#rs-header .menu-area nav.navbar ul li.mega ul li ul li.current-menu-item a,
 	#rs-header .menu-area .navbar ul ul li.current-menu-item a{
 		color:#01AAE5 !important;	
 	}
+
 	.rs-heading h3{
 		color: #01AAE5	}
 	.owl-navigation-yes .owl-nav [class*="owl-"]:hover,
 	#scrollUp i:hover,
 	#home-testimonial .cl-testimonial1 .slick-arrow:hover
+
 	{
 		background: #222222 !important;
 	}
+
 	.rs-footer{
 						background: transparent !important;
 					}
+
 	#counter-bg .counter-top-area .rs-counter-list i:hover{
 	color: #222222 !important;
 }
@@ -604,31 +665,43 @@ var lvca_settings = {"mobile_width":"780","custom_css":""};
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
   gtag('config', 'G-2ZW1NLRQTG');
 </script>
+
 <script type="application/ld+json">{"@context": "http://schema.org","@type": "product","name": "OraforgeTechnologies","url": "https://dreamstechnologies.com/","image": "view-source:https://dreamstechnologies.com/","sameAs": ["https://www.facebook.com/dreamstechnologieslimited/", "https://www.instagram.com/dreamstechnologieslimited/"],"aggregateRating": {"@type": "AggregateRating","ratingValue": "4.2","reviewCount": "116"}}</script>
+
 </head>
+
 <body class="home wp-singular page-template-default page page-id-2 wp-custom-logo wp-theme-zakhealth wp-child-theme-zakhealth-child wpb-js-composer js-comp-ver-6.13.0 vc_responsive">
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55FGDCBD"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
  <!--Preloader start here-->
+   
      <!--Preloader area end here-->
    <div id="page" class="site ">
   <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/feather.css">
 <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/iconsax.css">
 <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/own-font.css">
 <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/all.css">
+<script type="text/javascript" src="../secure.24-astute.com/js/795379.js"></script>
+<noscript><img alt="OraforgeTechnologies" src="../secure.24-astute.com/795379.html" style="display:none;" /></noscript>
+
 <header id="rs-header" class="style2">
     <div class="header-inner">
         <!-- Toolbar Start -->
                 <!-- Toolbar End -->
+        
         <!-- Header Menu Start -->
         <div class="menu-area">
             <div class="container-fluid doccntr">
                 <div class="row">
                     <div class="col-lg-2 col-xl-2 header-logo">
+                        
   <div class="logo-area">
           <a href="index.html" rel="home"><img style = "max-height: 70px" src="wp-content/uploads/2025/06/Asset-2-scaled.png" alt="OraforgeTechnologies"></a>
       </div>
@@ -636,6 +709,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <a href="index.html" rel="home"><img style = "max-height: 60px" src="wp-content/uploads/2025/06/Asset-2-scaled.png" alt="OraforgeTechnologies"></a>
        </div>
                         </div>
+                    
                     <div class="col-lg-12 col-xl-8 menu-responsive text-center">                    
                       <!-- <nav class="nav-container mobile-menu-container">
     <ul class="sidenav">
@@ -646,6 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </a> 
         </li>
         <li>
+        
 <!-- UberMenu [Configuration:main] [Theme Loc:menu-1] [Integration:auto] -->
 <div class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-white ubermenu-loc-menu-1 ubermenu-responsive-toggle-content-align-right ubermenu-responsive-toggle-align-right ubermenu-responsive-toggle-icon-only ubermenu-responsive-toggle-close-icon-times " tabindex="0" data-ubermenu-target="ubermenu-main-470-menu-1-2"  ><i class="fas fa-bars" ></i></div><nav id="ubermenu-main-470-menu-1-2" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-470 ubermenu-loc-menu-1 ubermenu-responsive ubermenu-responsive-single-column ubermenu-responsive-single-column-subs ubermenu-responsive-1199 ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-white  ubermenu-bar-align-full ubermenu-items-align-right ubermenu-disable-submenu-scroll ubermenu-sub-indicators ubermenu-retractors-responsive ubermenu-submenu-indicator-closes"><ul id="ubermenu-nav-main-470-menu-1" class="ubermenu-nav" data-title="DT Mega Menu"><li id="menu-item-3413" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-3413 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Technology Services</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-3413 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li id="menu-item-3414" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-3414 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4 ubermenu-hide-mobile" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded mgmenu-left"><h3>Achieve your dream projects with our technology services</h3>
 <a href="technology-services/legacy-application-modernization/index.html">Discover Our Services <i class="fa fa-long-arrow-alt-right"></i></a></div></li><li id="menu-item-3415" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-3415 ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-3-4 ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Application Technology and Engineering</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-3415 ubermenu-submenu-type-auto ubermenu-submenu-type-stack"  ><li class="ubermenu-autocolumn menu-item-3415-col-0 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3415-col-0"><ul  class="ubermenu-submenu ubermenu-submenu-id-3415-col-0 ubermenu-submenu-type-stack"  ><li id="menu-item-3525" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3525 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/custom-software-development-service/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/csm-1.png" width="45" height="41" alt="csm" title="csm"  /><span class="ubermenu-target-title ubermenu-target-text">Custom Software Development</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Empower your business with custom software solutions tailored to your needs. We build technology that drives innovation and efficiency.</span></a></li><li id="menu-item-3526" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3526 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/mvp/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/mvpmini-1.png" width="45" height="41" alt="mvpmini" title="mvpmini"  /><span class="ubermenu-target-title ubermenu-target-text">Minimum Viable Product</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Launch your MVP quickly with user-centric solutions. Validate your idea and iterate efficiently to achieve market success.</span></a></li><li id="menu-item-3416" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3416 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="legacy-application-modernization-services/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/legacy.png" width="45" height="41" alt="legacy" title="legacy"  /><span class="ubermenu-target-title ubermenu-target-text">Legacy Application Modernization</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Revamping outdated applications into modern, scalable systems, enhancing performance, security, and user experience.</span></a></li></ul></li><li class="ubermenu-autocolumn menu-item-3415-col-1 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3415-col-1"><ul  class="ubermenu-submenu ubermenu-submenu-id-3415-col-1 ubermenu-submenu-type-stack"  ><li id="menu-item-3417" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-3417 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/agile-software-development/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/agile.png" width="45" height="39" alt="agile" title="agile"  /><span class="ubermenu-target-title ubermenu-target-text">Agile Software Development</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Adaptive approach emphasizing iterative progress, collaboration, and continuous improvement.</span></a></li><li id="menu-item-3418" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3418 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/digital-transformation/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/lga.png" width="40" height="41" alt="lga" title="lga"  /><span class="ubermenu-target-title ubermenu-target-text">Digital Transformation Strategies</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Providing comprehensive strategies and solutions for seamless digital transformation, enhancing innovation and operational efficiency.</span></a></li><li id="menu-item-3420" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3420 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/ui-ux-design/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/ux.png" width="45" height="39" alt="ux" title="ux"  /><span class="ubermenu-target-title ubermenu-target-text">Redefining Digital User Experience</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Creating exceptional UX/UI designs focused on delivering engaging, intuitive, and user-centric digital experiences.</span></a></li></ul></li><li class="ubermenu-autocolumn menu-item-3415-col-2 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3415-col-2"><ul  class="ubermenu-submenu ubermenu-submenu-id-3415-col-2 ubermenu-submenu-type-stack"  ><li id="menu-item-3421" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-3421 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/caas/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/caas.png" width="45" height="51" alt="caas" title="caas"  /><span class="ubermenu-target-title ubermenu-target-text">CTO as a service (CaaS)</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Expert technology leadership on-demand for strategic and operational guidance.</span></a></li><li id="menu-item-3537" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3537 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/saas-platform-development/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/saas-icon-1.png" width="45" height="41" alt="saas-icon" title="saas-icon"  /><span class="ubermenu-target-title ubermenu-target-text">SaaS Platform Development</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">It involves building cloud-based applications accessible via the internet.</span></a></li><li id="menu-item-3536" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-3536 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/mobile-app/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/mobile-app-icon-1.png" width="45" height="41" alt="mobile-app-icon" title="mobile-app-icon"  /><span class="ubermenu-target-title ubermenu-target-text">Mobile App Development</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Mobile app development involves creating applications for smartphones and tablets, typically for iOS and Android.</span></a></li></ul></li></ul></li><li id="menu-item-3422" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-3422 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded sideempbox">&nbsp:</div></li><li id="menu-item-3423" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-3423 ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-3-4 ubermenu-has-submenu-stack" ><span class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only"><span class="ubermenu-target-title ubermenu-target-text">Performance, Security and Automation Testing Services</span></span><ul  class="ubermenu-submenu ubermenu-submenu-id-3423 ubermenu-submenu-type-auto ubermenu-submenu-type-stack"  ><li class="ubermenu-autocolumn menu-item-3423-col-0 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3423-col-0"><ul  class="ubermenu-submenu ubermenu-submenu-id-3423-col-0 ubermenu-submenu-type-stack"  ><li id="menu-item-3424" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-3424 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/ai-based-automation-testing/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/AI-Based-Automation-Testing-2.png" width="45" height="40" alt="AI-Based-Automation-Testing-2" title="AI-Based-Automation-Testing-2"  /><span class="ubermenu-target-title ubermenu-target-text">AI-Based Automation Testing</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Enhance your testing capabilities with AI-driven automation that improves accuracy and efficiency in detecting issues.</span></a></li></ul></li><li class="ubermenu-autocolumn menu-item-3423-col-1 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3423-col-1"><ul  class="ubermenu-submenu ubermenu-submenu-id-3423-col-1 ubermenu-submenu-type-stack"  ><li id="menu-item-3425" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-3425 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/security-and-penetration-testing/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/Security-Penetration-Testing-2.png" width="45" height="40" alt="Security-Penetration-Testing-2" title="Security-Penetration-Testing-2"  /><span class="ubermenu-target-title ubermenu-target-text">Security/Penetration Testing</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Safeguard your systems with comprehensive security assessments to identify and address vulnerabilities before they can be exploited.</span></a></li></ul></li><li class="ubermenu-autocolumn menu-item-3423-col-2 ubermenu-item-level-2 ubermenu-column ubermenu-column-1-3 ubermenu-has-submenu-stack ubermenu-item-type-column ubermenu-column-id-3423-col-2"><ul  class="ubermenu-submenu ubermenu-submenu-id-3423-col-2 ubermenu-submenu-type-stack"  ><li id="menu-item-3426" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-3426 ubermenu-item-auto ubermenu-item-normal ubermenu-item-level-3 ubermenu-column ubermenu-column-auto" ><a class="ubermenu-target ubermenu-target-with-image ubermenu-item-layout-image_left" href="technology-services/end-to-end-automation-of-testing/index.html"><img class="ubermenu-image ubermenu-image-size-full" src="wp-content/uploads/2025/02/End-End-Automation-Testing-2.png" width="45" height="40" alt="End-End-Automation-Testing-2" title="End-End-Automation-Testing-2"  /><span class="ubermenu-target-title ubermenu-target-text">End to End Automation of Testing</span><span class="ubermenu-target-divider"> – </span><span class="ubermenu-target-description ubermenu-target-text">Streamline your testing processes with our end-to-end automation solutions that ensure thorough and reliable testing across all stages.</span></a></li></ul></li></ul></li></ul></li><li id="menu-item-3433" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-3433 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega" ><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Consulting Services</span><i class='ubermenu-sub-indicator fas fa-angle-down'></i></a><ul  class="ubermenu-submenu ubermenu-submenu-id-3433 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"  ><li id="menu-item-3434" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-ubermenu-custom ubermenu-item-3434 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-1-4" ><div class="ubermenu-content-block ubermenu-custom-content ubermenu-custom-content-padded mgmenu-left"><h3>Turn your vision into reality with our expert consulting services</h3>
@@ -667,26 +742,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </ul>
 </nav>                   
                       </div>
+                      
                     <div class="col-lg-2 col-xl-2 toprgtbtn">
                         <div class="scdcall float-end"><a href="contact-us/index.html">Talk to Us <i class="fas fa-arrow-up"></i></a></div>
                     </div>               
+                                          
                 </div>
+                
             </div> 
         </div>
         <!-- Header Menu End -->        
+        
     </div>
     <!-- End Slider area  -->
 </header>
+
+
 <!-- Hero Section -->
 <div id="particles-js"></div>
     <section class="hero-section">
+
         <div class="video-container">
             <video autoplay muted loop>
                 <source src="wp-content/themes/zakhealth-child/img/sliderbg.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
             </video>
         </div>
+
         <div id="dtcarousel" class="carousel slide" data-bs-ride="carousel">
+            
             <div class="carousel-inner vcontent" role="listbox">
                 <div class="carousel-item active">
                     <div class="hero-content">
@@ -736,8 +820,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div> 
                 </div>                
             </div>
+
             <div class="carousel-indicators">
                 <div class="container">
+                    
                 <div class="btncntr">
                         <div class="btncol">
                             <button type="button" data-bs-target="#dtcarousel" data-bs-slide-to="0" aria-label="Slide 1" class="active" aria-current="true">
@@ -779,18 +865,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </div>
                             </button>
                         </div>
+                        
                     </div>
+
                 </div>
             </div>
+
         </div>
     </section>
     <!-- /Hero Section -->
+
+     
   <!-- End Header Menu End -->
   <div class="main-contain">
+
 <div class="container">
 	<div id="content" class="site-content">
 				<div class="row padding-">
 		    <div class="col-md-12 ">
+			    
 <article id="post-2" class="post-2 page type-page status-publish hentry">
   <div class="entry-content">
     <section class="wpb-content-wrapper"><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 80px"><span class="vc_empty_space_inner"></span></div>
@@ -801,6 +894,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 		</div>
 	</div>
+
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
 		<div class="wpb_wrapper">
 			<div class="row justify-content-center">
@@ -827,6 +921,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 </div>
+
 		</div>
 	</div>
 <div class="vc_empty_space"   style="height: 80px"><span class="vc_empty_space_inner"></span></div>
@@ -1134,6 +1229,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>      
         </div>
         <div class="row">
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1152,6 +1248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1170,6 +1267,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1188,6 +1286,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1206,6 +1305,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1224,6 +1324,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1242,6 +1343,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1260,6 +1362,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
             <!-- Product Card -->
             <div class="col-lg-3 col-md-6 aos" data-aos="flip-left">
                 <div class="product-card">
@@ -1278,6 +1381,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- /Product Card -->
+
         </div>
         <div class="career-btn aos" data-aos="fade-up">
             <a href="products/index.html" class="btn btn-primary">View All Products <i class="fas fa-arrow-up"></i></a>
@@ -1413,7 +1517,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>      
         </div>
+        
+
         <div class="owl-carousel">
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1423,12 +1530,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Mr Chris Burke, CEO</h4>
                             <h5>Hybridhero & Brickendon, UK</h5>
                             <p>Hi everyone, I am Chris Burke,  I am the CEO of  Hybrid Hero and Brickendon. Congratulations to all the guys in Dreamguys on reaching 10 years. Amazing event and  we've loved working with you over the past few years and look forward to continuing a great relationship with you all for the next 10 years. Thanks.</p>
+                            
                         </div>
                         <a href="javascript:void(0);"></a>
                     </div>
                 </div>
             </div>
             <!-- Testimonial Item -->
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1438,12 +1547,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Mr Tomo, CEO</h4>
                             <h5>Avatouch, Japan</h5>
                             <p>Congratulations on 10 years, since you guys funded your company every day. Your team helped us so much and then especially Vivek,  he helped us too much. Thank you. I look forward to going to your company again. See you. Wish You All The Very Best! Sustain a track record of ongoing achievements.</p>
+                            
                         </div>
                         <a href="javascript:void(0);"></a>
                     </div>
                 </div>
             </div>
             <!-- Testimonial Item --> 
+             
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1453,12 +1564,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Win Zaw, CEO</h4>
                             <h5>Asia Expeditions DMC - Cambodia</h5>
                             <p>Win Zaw From Asia Expeditions DMC in Cambodia, while ago, we contacted Ms. Indhu from Dream guys Technology in India for our software requirement. Without knowing them in the first place, her persistence on sales calls and follow-ups is amazing. Keep Rocking! All The Very Best!</p>
+                            
                         </div>
                         <a href="javascript:void(0);"></a>
                     </div>
                 </div>
             </div>
             <!-- Testimonial Item -->
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1478,6 +1591,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- Testimonial Item -->
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1497,6 +1611,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <!-- Testimonial Item -->
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1506,12 +1621,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Malcholm Matlapeng, CEO</h4>
                             <h5>Doctors E-Consult, Botswana</h5>
                             <p>Good day! It's been a remarkable journey, and Congratulations on your milestone ! Your support and engagement have been invaluable, and thank you for continuously enhancing our experience. Here's to a fantastic new season filled with even more insightful interactions and collaborations!</p>
+                            
                         </div>
                         <a href="javascript:void(0);"></a>
                     </div>
                 </div>
             </div>
             <!-- Testimonial Item -->            
+
             <!-- Testimonial Item -->
             <div class="item">
                 <div class="product-card">
@@ -1521,13 +1638,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h4>Mr Samuel Jean</h4>
                             <h5>CEO</h5>
                             <p>Cheers to Dreamguy's 10th anniversary! Your support and dedication have driven multiple successful projects, benefiting the community and enhancing customer experiences. Excited for the next decade of innovation and looking forward to your continued achievements. Keep up the fantastic work team! Thank You Very Much!</p>
+                            
                         </div>
                         <a href="javascript:void(0);"></a>
                     </div>
                 </div>
             </div>
             <!-- Testimonial Item -->
+
         </div>
+
+        
     </div>
 </section>
 <!-- /Product -->
@@ -1643,6 +1764,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingTwo">
@@ -1659,6 +1781,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingThree">
@@ -1675,6 +1798,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingFour">
@@ -1691,6 +1815,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingFive">
@@ -1707,6 +1832,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+                        
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingSix">
@@ -1723,6 +1849,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingSeven">
@@ -1739,6 +1866,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingEight">
@@ -1755,6 +1883,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingNine">
@@ -1771,6 +1900,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingTen">
@@ -1787,12 +1917,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                     </div>
+                    
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="faq-info">
                     <div class="accordion">
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingEleven">
@@ -1809,6 +1942,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item --> 
+                         
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingTwelve">
@@ -1825,6 +1959,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item --> 
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingThirteen">
@@ -1841,6 +1976,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+                         
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingFourteen">
@@ -1857,6 +1993,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingFifteen">
@@ -1873,6 +2010,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingSixteen">
@@ -1889,6 +2027,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingSeventeen">
@@ -1905,6 +2044,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingEighteen">
@@ -1921,6 +2061,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingNineteen">
@@ -1937,6 +2078,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                         <!-- FAQ Item -->
                         <div class="accordion-item aos" data-aos="fade-up">
                             <h2 class="accordion-header" id="headingTwenty">
@@ -1953,7 +2095,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </div>
                         </div>
                         <!-- /FAQ Item -->
+
                     </div>
+                    
                 </div>
             </div>
         </div>
@@ -1976,15 +2120,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div id="bdpp-post-gridbox-1" class="bdpp-wrap bdpp-lite bdpp-post-grid-box-wrap bdpp-post-data-wrap bdpp-design-1  bdpp-clearfix">
 	<div class="bdpp-post-grid-box-inr-wrap bdpp-post-data-inr-wrap bdpp-clearfix">	<div class="bdpp-post-gridbox bdpp-post-gridbox-left bdpp-col-2 bdpp-columns bdpp-post-3288 bdpp-post-standard  bdpp-has-thumb">
 		<div class="bdpp-post-grid-content">
+				
 			<div class="bdpp-post-img-link">	
 				<a class="bdpp-post-linkoverlay" href="transparent-resource/index.html"></a>
 				<div class="bdpp-post-img-bg" style="height:500px; background-image:url(wp-content/uploads/2024/11/Transparent-Resource-1-1024x512.png);"></div>
 							</div>
 						<div class="bdpp-post-cats"><a class="bdpp-post-cat-link bdpp-post-cat-480 bdpp-post-cat-resourcing" href="category/resourcing/index.html">Resourcing</a></div>
+			
 			<div class="bdpp-post-content-overlay">
 				<h2 class="bdpp-post-title">
 					<a href="transparent-resource/index.html">Transparent Resourcing</a>
 				</h2>
+
 								<div class="bdpp-post-meta bdpp-post-meta-up">
 					<span class="bdpp-post-meta-data bdpp-post-author"><i class="fa fa-user"></i>Admin</span><span class="bdpp-post-meta-sep"> &ndash; </span><span class="bdpp-post-meta-data bdpp-post-date"><i class="fa fa-clock-o"></i>November 29, 2024</span>				</div>
 								<div class="bdpp-post-content">
@@ -1994,6 +2141,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</div>
 		</div>
 	</div>
+
 <div class="bdpp-post-gridbox bdpp-post-gridbox-right bdpp-col-2 bdpp-columns bdpp-post-3280 bdpp-post-standard  bdpp-has-thumb">
 	<div class="bdpp-post-grid-content bdpp-clearfix">
 				<div class="bdpp-col-s-4 bdpp-columns">
@@ -2003,18 +2151,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</a>
 			</div>
 		</div>
+		
 		<div class="bdpp-col-s-8 bdpp-columns">
 						<div class="bdpp-post-cats"><a class="bdpp-post-cat-link bdpp-post-cat-481 bdpp-post-cat-cloud-credits" href="category/uncategorized/cloud-credits/index.html">Cloud Credits</a></div>
+			
 			<div class="bdpp-post-content-overlay">
 									<h4 class="bdpp-post-title">
 						<a href="unlock-150k-in-azure-cloud-credits-for-startups-let-dreams-technologies-guide-your-journey/index.html">Unlock $150K in Azure Cloud Credits for Startups – Let OraforgeTechnologies Guide Your Journey!</a>
 					</h4>
+
 								<div class="bdpp-post-meta bdpp-post-meta-up">
 					<span class="bdpp-post-meta-data bdpp-post-author"><i class="fa fa-user"></i>Admin</span><span class="bdpp-post-meta-sep"> &ndash; </span><span class="bdpp-post-meta-data bdpp-post-date"><i class="fa fa-clock-o"></i>November 14, 2024</span>				</div>
 							</div>
 		</div>
 	</div>
 </div>
+
 <div class="bdpp-post-gridbox bdpp-post-gridbox-right bdpp-col-2 bdpp-columns bdpp-post-3275 bdpp-post-standard  bdpp-has-thumb">
 	<div class="bdpp-post-grid-content bdpp-clearfix">
 				<div class="bdpp-col-s-4 bdpp-columns">
@@ -2024,18 +2176,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</a>
 			</div>
 		</div>
+		
 		<div class="bdpp-col-s-8 bdpp-columns">
 						<div class="bdpp-post-cats"><a class="bdpp-post-cat-link bdpp-post-cat-482 bdpp-post-cat-saas-development" href="category/saas-development/index.html">SaaS Development</a></div>
+			
 			<div class="bdpp-post-content-overlay">
 				<h4 class="bdpp-post-title">
 					<a href="why-microservices-architecture-is-the-future-of-saas-development/index.html">Why Microservices Architecture is the Future of SaaS Development</a>
 				</h4>
+
 								<div class="bdpp-post-meta bdpp-post-meta-up">
 					<span class="bdpp-post-meta-data bdpp-post-author"><i class="fa fa-user"></i>Admin</span><span class="bdpp-post-meta-sep"> &ndash; </span><span class="bdpp-post-meta-data bdpp-post-date"><i class="fa fa-clock-o"></i>November 6, 2024</span>				</div>
 							</div>
 		</div>
 	</div>
 </div>
+
 <div class="bdpp-post-gridbox bdpp-post-gridbox-right bdpp-col-2 bdpp-columns bdpp-post-3269 bdpp-post-standard  bdpp-has-thumb">
 	<div class="bdpp-post-grid-content bdpp-clearfix">
 				<div class="bdpp-col-s-4 bdpp-columns">
@@ -2045,12 +2201,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									</a>
 			</div>
 		</div>
+		
 		<div class="bdpp-col-s-8 bdpp-columns">
 						<div class="bdpp-post-cats"><a class="bdpp-post-cat-link bdpp-post-cat-483 bdpp-post-cat-hr-software" href="category/hr-software/index.html">HR Software</a></div>
+			
 			<div class="bdpp-post-content-overlay">
 				<h4 class="bdpp-post-title">
 					<a href="streamlining-business-operations-with-dreams-hrms-your-all-in-one-management-dashboard/index.html">Streamlining Business Operations with Dreams HRMS: Your All-In-One Management Dashboard</a>
 				</h4>
+
 								<div class="bdpp-post-meta bdpp-post-meta-up">
 					<span class="bdpp-post-meta-data bdpp-post-author"><i class="fa fa-user"></i>Admin</span><span class="bdpp-post-meta-sep"> &ndash; </span><span class="bdpp-post-meta-data bdpp-post-date"><i class="fa fa-clock-o"></i>November 5, 2024</span>				</div>
 							</div>
@@ -2061,6 +2220,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 		</div>
 	</div>
+
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
 		<div class="wpb_wrapper">
 			<div class="career-btn aos aos-init aos-animate mt-0 mb-5 pb-4" data-aos="fade-up">
@@ -2072,12 +2232,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section> 
   </div>
   <!-- .entry-content -->
+  
   </article>
 <!-- #post-2 --> 
 		    </div>
 					</div>
 	</div>
 </div>
+     
 </div><!-- .main-container -->
 <footer>
   <!--
@@ -2100,7 +2262,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                                 <li> 
                               <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
                         </li>
+                                                                                                     
                   </ul>
+                         
               </div>                        
           </div>              
           <div class="col-md">
@@ -2118,6 +2282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
   </div>
+    
   <div class="footer-bottom">
         <div class="container">            
         <div class="copyright">
@@ -2138,10 +2303,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                                 <li> 
                               <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a> 
                         </li>
+                                                                                                     
                   </ul>
                  </div>
         </div>
   </div>-->
+
   <div class="container">
         <div class="row">
             <div class="col-12">
@@ -2248,11 +2415,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </div>
+ 
 </footer>
 </div><!-- #page -->
+
 <!--<div class="popup-form" id="popupForm">
     <span class="close-btn">&times;</span>
     <h2>Get a Free Consultation<br><span>on <span class="yellow">Custom Software Development</span></span></h2>
+    
 <div class="wpcf7 no-js" id="wpcf7-f3412-o1" lang="en-US" dir="ltr" data-wpcf7-id="3412">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
 <form action="/#wpcf7-f3412-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
@@ -2260,10 +2430,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </fieldset>
 <div class="uacf7-form-3412  "><label>
     <span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name" value="" type="text" name="your-name" /></span> </label>
+
 <label>
     <span class="wpcf7-form-control-wrap" data-name="tel-913"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number" value="" type="tel" name="tel-913" /></span> </label>
+
 <label>
     <span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" value="" type="email" name="your-email" /></span> </label>
+
 <div class="mb-4"><span class="wpcf7-form-control-wrap recaptcha" data-name="recaptcha"><span data-sitekey="6LfjvQAqAAAAAOfE_9mxBIfmxGIfHqaLpiDq9qpq" class="wpcf7-form-control wpcf7-recaptcha g-recaptcha"></span>
 <noscript>
 	<div class="grecaptcha-noscript">
@@ -2274,10 +2447,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </noscript>
 </span></div>
+
 <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Submit" /></div><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
 </div>-->
+
 <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/owl.carousel.min.css">
 <link rel="stylesheet" href="wp-content/themes/zakhealth-child/css/owl.theme.default.min.css">
 <!-- <a href="https://chatwith.io/s/5f33ce0c4aede" class="whats_app_icon"><img src="https://dreamstechnologies.com/wp-content/themes/zakhealth-child/images/whatsapp-icon.png"> </a> -->
@@ -2286,6 +2461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="wp-content/themes/zakhealth-child/js/owl.carousel.min.js" type="text/javascript"></script>
 <!--<script src="https://dreamstechnologies.com/wp-content/themes/zakhealth-child/js/particles.min.js"></script>
 <script src="https://dreamstechnologies.com/wp-content/themes/zakhealth-child/js/app.js"></script> -->
+
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -2293,6 +2469,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "mx796qqbry");
 </script>
+
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -2328,8 +2505,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         "longitude": "77.01851128465542"
     },
     "priceRange":"$"
+
 }
 </script>
+
 <script type="text/javascript">
     $('.owl-carousel').owlCarousel({
         margin:30,        
@@ -2352,13 +2531,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         }
     }
     })
+
     // CounterUp
+
     if ($(".count-service .counter-up").length > 0) {
         $(".count-service .counter-up").counterUp({
             delay: 15,
             time: 1500,
         });
     }
+
     var a = 0;
     $(window).scroll(function () {
         var oTop = $("#counter").offset().top - window.innerHeight;
@@ -2372,6 +2554,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     {
                         countNum: countTo,
                     },
+
                     {
                         duration: 2500,
                         easing: "swing",
@@ -2388,18 +2571,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             a = 1;
         }
     });
+
     /*$(document).ready(function () {
         $(window).scroll(function () {
             if ($(this).scrollTop() > 2800 && !sessionStorage.getItem("popupClosed")) {
                 $("#popupForm").fadeIn();
             }
         });
+
         $(".close-btn").click(function () {
             $("#popupForm").fadeOut();
             sessionStorage.setItem("popupClosed", "true");
         });
     });*/
+
 </script>
+
 <script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/zakhealth-child\/*","\/wp-content\/themes\/zakhealth\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
@@ -2479,5 +2666,7 @@ var wpcf7iqfix = {"recaptcha_empty":"Please verify that you are not a robot.","r
 /* ]]> */
 </script>
 <script type="text/javascript" src="../www.google.com/recaptcha/apidba9.js?hl=en_US&amp;onload=recaptchaCallback&amp;render=explicit&amp;ver=2.0" id="google-recaptcha-js"></script>
+
 </body>
+
 </html>
